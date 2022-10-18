@@ -1,0 +1,7 @@
+scapy
+sys
+argparse
+colorama
+pyfiglet
+alive_progress
+random
