@@ -5,23 +5,20 @@
 
 ### PRE-REQUIREMENTS 
 * python3 :
-
-
 ```bash
-
-       sudo apt-get install python3
-
+    sudo apt-get install python3
 ```
 
 
 
 * script_requirements :
-  ```bash
-      sudo pip3 install -r requirements.txt
-    ``` 
+```bash
+    sudo pip3 install -r requirements.txt
+``` 
 ### DOWNLOADING_SCRIPT :
-
-do git clone 
+```bash
+    sudo git clone
+```
 
 ### SYNTAX : 
 ```bash
