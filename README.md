@@ -27,7 +27,3 @@
 
 ### EXAMPLES :
 `$ sudo python3 sniffee.py --iface eth0 ` 
-
-
-
-    
