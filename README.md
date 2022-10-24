@@ -12,7 +12,6 @@
 * BLACKBOX UBUNTU vm(terminal)
 * ANDROID (termux)
 
-## USAGE 
 
 ### PRE-REQUIREMENTS 
 * python3 :
@@ -30,6 +29,7 @@
 ```bash
     sudo git clone https://github.com/shybu9/sniffee
 ```
+## USAGE 
 
 ### SYNTAX : 
 ```bash
@@ -38,3 +38,8 @@
 
 ### EXAMPLES :
 `$ sudo python3 sniffee.py --iface eth0 ` 
+
+1.try to send http requests or simply use web on a mechine which is connected to same network interface given.<br>
+2.this data will be sniffed and shown on terminal<br>
+3.any remarks:<br>
+####     do write to shy.bu9@gmail.com
