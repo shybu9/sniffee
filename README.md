@@ -21,13 +21,13 @@
 
 
 
-* script_requirements :
+* script_requirements (after downloading_script) :
 ```bash
     sudo pip3 install -r requirements.txt
 ``` 
 ### DOWNLOADING_SCRIPT :
 ```bash
-    sudo git clone https://github.com/shybu9/sniffee
+    sudo git clone https://github.com/shybu9/sniffee.git
 ```
 ## USAGE 
 
