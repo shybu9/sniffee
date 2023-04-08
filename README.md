@@ -27,7 +27,7 @@
 ``` 
 ### DOWNLOADING_SCRIPT :
 ```bash
-    sudo git clone https://github.com/shybu9/sniffee.git
+    sudo git clone https://github.com/shybu9/sniffee
 ```
 ## USAGE 
 
